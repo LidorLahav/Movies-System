@@ -1,5 +1,3 @@
-# Movies-System
-#  
 <h1 align="center">:movie_camera: Movies System</h1>
 <!-- TABLE OF CONTENTS -->
 <details open="open">
